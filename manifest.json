@@ -1,0 +1,11 @@
+{
+  "name": "Maderas & Sueños",
+  "short_name": "Maderas & Sueños",
+  "description": "Cocinas a Medida en Zaragoza",
+  "start_url": "/maderas-suenos.html",
+  "display": "standalone",
+  "background_color": "#2C1810",
+  "theme_color": "#8B4513",
+  "orientation": "portrait",
+  "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}]
+}
